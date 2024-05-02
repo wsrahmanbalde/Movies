@@ -20,3 +20,6 @@ logging:
   level:
     root: error
     com.balde.Movie: info
+
+project:
+  poster: poster/
